@@ -1,0 +1,17 @@
+{
+  "name": "contents_generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "contents_generator.js",
+  "scripts": {
+    "start": "node contents_generator.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "save": "^2.4.0"
+  }
+}
