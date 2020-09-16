@@ -32,3 +32,16 @@
 
 [2.7 Использование setInterval](https://github.com/maxim218/JavaScript-Tasks-IU/blob/master/TASK_2/Lesson_7.markdown "")
 
+**Раздел 3** 
+[3.1 Создание файла с зависимостями](https://github.com/maxim218/JavaScript-Tasks-IU/blob/master/TASK_3/Lesson_1.markdown "")
+
+[3.2 Формат JSON - получение строки JSON](https://github.com/maxim218/JavaScript-Tasks-IU/blob/master/TASK_3/Lesson_2.markdown "")
+
+[3.3 Формат JSON - особенности](https://github.com/maxim218/JavaScript-Tasks-IU/blob/master/TASK_3/Lesson_3.markdown "")
+
+[3.4 Получение объекта из строки JSON](https://github.com/maxim218/JavaScript-Tasks-IU/blob/master/TASK_3/Lesson_4.markdown "")
+
+[3.5 Работа с файлами](https://github.com/maxim218/JavaScript-Tasks-IU/blob/master/TASK_3/Lesson_5.markdown "")
+
+[3.6 Считывание с клавиатуры](https://github.com/maxim218/JavaScript-Tasks-IU/blob/master/TASK_3/Lesson_6.markdown "")
+
