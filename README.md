@@ -45,3 +45,10 @@
 
 [3.6 Считывание с клавиатуры](https://github.com/maxim218/JavaScript-Tasks-IU/blob/master/TASK_3/Lesson_6.markdown "")
 
+**Раздел 4** 
+[4.1 Запуск сервера](https://github.com/maxim218/JavaScript-Tasks-IU/blob/master/TASK_4/Lesson_1.markdown "")
+
+[4.2 Получение HTML страниц](https://github.com/maxim218/JavaScript-Tasks-IU/blob/master/TASK_4/Lesson_2.markdown "")
+
+[4.3 Работа с формами](https://github.com/maxim218/JavaScript-Tasks-IU/blob/master/TASK_4/Lesson_3.markdown "")
+
