@@ -52,3 +52,10 @@
 
 [4.3 Работа с формами](https://github.com/maxim218/JavaScript-Tasks-IU/blob/master/TASK_4/Lesson_3.markdown "")
 
+**Раздел 5** 
+[5.1 Получение статических файлов](https://github.com/maxim218/JavaScript-Tasks-IU/blob/master/TASK_5/Lesson_1.markdown "")
+
+[5.2 AJAX запросы GET](https://github.com/maxim218/JavaScript-Tasks-IU/blob/master/TASK_5/Lesson_2.markdown "")
+
+[5.3 POST запросы в AJAX](https://github.com/maxim218/JavaScript-Tasks-IU/blob/master/TASK_5/Lesson_3.markdown "")
+
