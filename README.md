@@ -59,3 +59,5 @@
 
 [5.3 POST запросы в AJAX](https://github.com/maxim218/JavaScript-Tasks-IU/blob/master/TASK_5/Lesson_3.markdown "")
 
+[5.4 Специальные символы](https://github.com/maxim218/JavaScript-Tasks-IU/blob/master/TASK_5/Lesson_4.markdown "")
+
