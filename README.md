@@ -61,3 +61,8 @@
 
 [5.4 Специальные символы](https://github.com/maxim218/JavaScript-Tasks-IU/blob/master/TASK_5/Lesson_4.markdown "")
 
+**Раздел 6** 
+[6.1 Работа с шаблонизатором](https://github.com/maxim218/JavaScript-Tasks-IU/blob/master/TASK_6/Lesson_1.markdown "")
+
+[6.2 Сессии в NodeJS](https://github.com/maxim218/JavaScript-Tasks-IU/blob/master/TASK_6/Lesson_2.markdown "")
+
