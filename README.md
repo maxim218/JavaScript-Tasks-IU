@@ -92,3 +92,24 @@
 
 [7.3 Дочерние процессы](https://github.com/maxim218/JavaScript-Tasks-IU/blob/master/TASK_7/Lesson_3.markdown "")
 
+**Раздел 8** 
+
+Страница для скачивания установщика
+
+```
+https://www.swi-prolog.org/download/stable
+```
+
+Примеры программ
+
+```
+https://maxim218.gitbook.io/prolog/chapter1
+```
+
+Хорошее руководство
+
+```
+http://lpn.swi-prolog.org
+```
+
+
