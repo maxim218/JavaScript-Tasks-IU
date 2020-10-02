@@ -82,3 +82,13 @@
 
 [6.2 Сессии в NodeJS](https://github.com/maxim218/JavaScript-Tasks-IU/blob/master/TASK_6/Lesson_2.markdown "")
 
+## Лабораторная работа 4
+
+**Раздел 7** 
+
+[7.1 Взаимодействие между серверами. Сервер для отправки запросов на другой сервер](https://github.com/maxim218/JavaScript-Tasks-IU/blob/master/TASK_7/Lesson_1.markdown "")
+
+[7.2 Передача параметров скрипту](https://github.com/maxim218/JavaScript-Tasks-IU/blob/master/TASK_7/Lesson_2.markdown "")
+
+[7.3 Дочерние процессы](https://github.com/maxim218/JavaScript-Tasks-IU/blob/master/TASK_7/Lesson_3.markdown "")
+
