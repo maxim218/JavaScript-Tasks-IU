@@ -1,0 +1,81 @@
+function find_max_nesting(obj){
+    let flag = true
+    let count = 0
+
+    while (count < 10000 && flag){
+        try {
+            const jsonString = JSON.stringify(obj)
+            obj = {"level": obj}
+        }
+        catch (err) {
+            flag = false
+            console.log(err.message);
+        }
+
+        count++
+    }
+
+    return count
+}
+
+function main(){
+
+    let obj = {}
+    let count = find_max_nesting(obj)
+
+    console.log(count)
+}
+
+main()
+
+
+
+-------------------------------------------
+typeof(obj) === "object"
+
+
+---------------------------------
+let mas = []
+
+function search(obj){
+    let count = 0
+
+    for (let i in obj)
+    {
+        if (typeof(obj[i]) === "object")
+        {
+            count = Math.max(search(obj[i]), count)
+            mas[count - 1] = i
+        }
+    }
+
+    count++
+
+    return count
+}
+let obj = {
+        a1: {
+            b1: {
+                c: 1
+            },
+            b2: {
+                c: 222
+            },
+            b3: {
+                c: {
+                    d: 33,
+                    e: 2.5,
+                    f: {
+                        g: 9999,
+                        h: {
+                            i: {
+                                j: 1001,
+                                k: 'строка',
+                                l: [1, 2, 3]
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
